@@ -2,10 +2,9 @@
 # Optimisation du profil d’une route
 
 [![DOWNLOAD](https://img.shields.io/badge/Download-Subject-red.svg)](https://github.com/kenn44/optimizing-the-profile-of-a-road/raw/master/subject.pdf)
-
 [![DOWNLOAD](https://img.shields.io/badge/Download-Project-green.svg)](https://github.com/kenn44/optimizing-the-profile-of-a-road/raw/master/projet.pdf)
-Download Scilab code
-Download profil.txt
+[![DOWNLOAD](https://img.shields.io/badge/Download-Scilab%20code-brightgreen.svg)](https://github.com/kenn44/optimizing-the-profile-of-a-road/raw/master/code.sce)
+[![DOWNLOAD](https://img.shields.io/badge/Download-profil.txt-yellowgreen.svg)](https://github.com/kenn44/optimizing-the-profile-of-a-road/raw/master/profil.txt)
 
 ## Partie I:Excursion en dimension infinie
 
