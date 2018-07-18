@@ -1,5 +1,6 @@
 ## Optimisation numérique
 # Optimisation du profil d’une route
+Projet donné par le Prof. [Marie Postel](https://www.ljll.math.upmc.fr/postel/).
 
 [![DOWNLOAD](https://img.shields.io/badge/Download-Subject-red.svg)](https://github.com/kenn44/optimizing-the-profile-of-a-road/raw/master/subject.pdf)
 [![DOWNLOAD](https://img.shields.io/badge/Download-Project-green.svg)](https://github.com/kenn44/optimizing-the-profile-of-a-road/raw/master/projet.pdf)
@@ -16,4 +17,4 @@ On considère une première approche simplifiée du problème du profil d'une ro
 
 ## Partie III. Mise en oeuvre numérique avec Scilab.
 
-*November 2017*
+*Novembre 2017*
